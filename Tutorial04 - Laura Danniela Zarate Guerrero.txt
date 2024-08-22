@@ -1,4 +1,2 @@
 Github Laura Danniela Zárate Guerrero:
-https://github.com/LauZar12/Django-Tutorials
-
-
+https://github.com/LauZar12/Django-Tutorials-2
